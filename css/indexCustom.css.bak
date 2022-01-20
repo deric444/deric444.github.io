@@ -1,0 +1,12 @@
+div.centertext {
+    height: 100vh;
+    position: relative }
+div.centertext p {
+    margin: 0;
+    position: absolute;
+	font-size:20vw;
+	font-family: VisbyBold;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
